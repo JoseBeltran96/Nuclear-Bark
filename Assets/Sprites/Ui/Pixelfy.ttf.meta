@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dda7608b5854df14496c26ef20a2fe21
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pixelfy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cdb68dcd13f550140bc5d254dd2aabd4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
